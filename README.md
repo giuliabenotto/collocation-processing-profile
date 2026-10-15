@@ -22,7 +22,7 @@ CPP reuses **P-Plan** for the planned workflow, **PROV-O** for execution provena
 
 - **Title:** Collocation Processing Profile (CPP)
 - **Version:** 0.1.0
-- **Ontology IRI:** `https://example.org/cpp`
+- **Ontology IRI:** `https://ilc.cnr.it/klab/ontology/cpp`
 - **Main reused vocabularies:** P-Plan, PROV-O, OntoLex-FrAC, LexInfo
 
 ## Files
@@ -36,3 +36,7 @@ CPP reuses **P-Plan** for the planned workflow, **PROV-O** for execution provena
 Once published in the repository, the ontology can be downloaded directly from:
 
 `https://raw.githubusercontent.com/giuliabenotto/collocation-processing-profile/main/cpp.owl`
+
+## License
+
+The Collocation Processing Profile ontology and its accompanying documentation are released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. Reuse and adaptation are permitted, including for commercial purposes, provided appropriate attribution is given, a link to the license is supplied, and changes are indicated. See [LICENSE](LICENSE) for the full terms.
