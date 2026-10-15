@@ -35,4 +35,4 @@ CPP reuses **P-Plan** for the planned workflow, **PROV-O** for execution provena
 
 Once published in the repository, the ontology can be downloaded directly from:
 
-`https://github.com/<user>/<repo>/raw/main/cpp.owl`
+`https://raw.githubusercontent.com/giuliabenotto/collocation-processing-profile/main/cpp.owl`
