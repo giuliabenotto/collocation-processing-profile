@@ -2,11 +2,11 @@
 
 **CPP** is an OWL application profile for representing the methodological provenance of corpus-based collocation extraction.
 
-It links **OntoLex-FrAC collocation observations** to both:
+It links **[OntoLex-FrAC](https://ontolex.github.io/frequency-attestation-corpus-information/) collocation observations** to both:
 - the **planned extraction procedure**; and
 - the **concrete execution context** in which the observations were produced.
 
-CPP reuses **P-Plan** for the planned workflow, **PROV-O** for execution provenance, and **OntoLex-FrAC** for collocation observations.
+CPP reuses **[P-Plan](https://www.opmw.org/model/p-plan17052013/)** for the planned workflow, **[PROV-O](https://www.w3.org/TR/prov-o/)** for execution provenance, and **[OntoLex-FrAC](https://ontolex.github.io/frequency-attestation-corpus-information/)** for collocation observations.
 
 ![Overview of the Collocation Processing Profile (CPP)](cpp-overview-en.png)
 
@@ -23,7 +23,7 @@ CPP reuses **P-Plan** for the planned workflow, **PROV-O** for execution provena
 - **Title:** Collocation Processing Profile (CPP)
 - **Version:** 0.1.0
 - **Ontology IRI:** `https://ilc.cnr.it/klab/ontology/cpp`
-- **Main reused vocabularies:** P-Plan, PROV-O, OntoLex-FrAC, LexInfo
+- **Main reused vocabularies:** [P-Plan](https://www.opmw.org/model/p-plan17052013/), [PROV-O](https://www.w3.org/TR/prov-o/), [OntoLex-FrAC](https://ontolex.github.io/frequency-attestation-corpus-information/)
 
 ## Files
 
